@@ -1,0 +1,4 @@
+# 安装XML包
+install.packages("tm", dependencies=TRUE)
+# 安装
+# https://cos.name
